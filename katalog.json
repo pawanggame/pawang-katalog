@@ -1,0 +1,31 @@
+{
+    "harga_satuan": 10000,
+    "link_shopee_satuan": "https://shopee.co.id/link-produk-satuan-pawang-game",
+    "nomor_wa": "6281234567890",
+    "games": [
+        {
+            "id": "ps2_007_agent_under_fire",
+            "title": "007 Agent Under Fire",
+            "category": "PS2",
+            "cover": "Marketplace/PS2/007 Agent Under Fire/cover.jpg",
+            "previews": [
+                "Marketplace/PS2/007 Agent Under Fire/preview1.jpg",
+                "Marketplace/PS2/007 Agent Under Fire/preview2.jpg",
+                "Marketplace/PS2/007 Agent Under Fire/preview3.jpg",
+                "Marketplace/PS2/007 Agent Under Fire/preview4.jpg"
+            ]
+        },
+        {
+            "id": "ps2_avatar_the_last_airbender_into_the_inferno",
+            "title": "Avatar The Last Airbender Into the Inferno",
+            "category": "PS2",
+            "cover": "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/cover.jpg",
+            "previews": [
+                "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/preview1.jpg",
+                "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/preview2.jpg",
+                "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/preview3.jpg",
+                "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/preview4.jpg"
+            ]
+        }
+    ]
+}
