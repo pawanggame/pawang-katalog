@@ -4,6 +4,18 @@
     "nomor_wa": "6281234567890",
     "games": [
         {
+            "id": "pc_game_dynasty_warriors_3_ce_remastered",
+            "title": "DYNASTY WARRIORS 3 CE Remastered",
+            "category": "PC GAME",
+            "cover": "Marketplace/PC GAME/DYNASTY WARRIORS 3 CE Remastered/cover.jpg",
+            "previews": [
+                "Marketplace/PC GAME/DYNASTY WARRIORS 3 CE Remastered/DYNASTY WARRIORS 3 CE Remastered 2.jpg",
+                "Marketplace/PC GAME/DYNASTY WARRIORS 3 CE Remastered/DYNASTY WARRIORS 3 CE Remastered 4.jpg",
+                "Marketplace/PC GAME/DYNASTY WARRIORS 3 CE Remastered/DYNASTY WARRIORS 3 CE Remastered 5.jpg",
+                "Marketplace/PC GAME/DYNASTY WARRIORS 3 CE Remastered/preview.jpg"
+            ]
+        },
+        {
             "id": "pc_game_spyro",
             "title": "spyro",
             "category": "PC GAME",
