@@ -99,6 +99,18 @@
                 "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/preview3.jpg",
                 "Marketplace/PS2/Avatar The Last Airbender Into the Inferno/preview4.jpg"
             ]
+        },
+        {
+            "id": "ps2_teen_titans",
+            "title": "Teen Titans",
+            "category": "PS2",
+            "cover": "Marketplace/PS2/Teen Titans/cover.jpg",
+            "previews": [
+                "Marketplace/PS2/Teen Titans/Teen Titans 2.jpg",
+                "Marketplace/PS2/Teen Titans/Teen Titans 3.jpg",
+                "Marketplace/PS2/Teen Titans/Teen Titans 4.jpg",
+                "Marketplace/PS2/Teen Titans/Teen Titans 5.jpg"
+            ]
         }
     ]
 }
