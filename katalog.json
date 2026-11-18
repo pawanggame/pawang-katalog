@@ -28,6 +28,19 @@
             ]
         },
         {
+            "id": "pc_game_the_sims_2_pets",
+            "title": "The Sims 2 Pets",
+            "category": "PC GAME",
+            "cover": "Marketplace/PC GAME/The Sims 2 Pets/cover.jpg",
+            "previews": [
+                "Marketplace/PC GAME/The Sims 2 Pets/The Sims 2 Pets 1.jpg",
+                "Marketplace/PC GAME/The Sims 2 Pets/The Sims 2 Pets 2.jpg",
+                "Marketplace/PC GAME/The Sims 2 Pets/The Sims 2 Pets 3.jpg",
+                "Marketplace/PC GAME/The Sims 2 Pets/The Sims 2 Pets 4.jpg",
+                "Marketplace/PC GAME/The Sims 2 Pets/The Sims 2 Pets 5.jpg"
+            ]
+        },
+        {
             "id": "ps1_757575ikdhjfh",
             "title": "757575ikdhjfh",
             "category": "PS1",
