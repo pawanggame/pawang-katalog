@@ -4,18 +4,6 @@
     "nomor_wa": "6281234567890",
     "games": [
         {
-            "id": "pc_game_sdfsdf394",
-            "title": "sdfsdf394",
-            "category": "PC GAME",
-            "cover": "Marketplace/PC GAME/sdfsdf394/cover.jpg",
-            "previews": [
-                "Marketplace/PC GAME/sdfsdf394/preview1.jpg",
-                "Marketplace/PC GAME/sdfsdf394/preview2.jpg",
-                "Marketplace/PC GAME/sdfsdf394/preview3.jpg",
-                "Marketplace/PC GAME/sdfsdf394/preview4.jpg"
-            ]
-        },
-        {
             "id": "pc_game_spyro",
             "title": "spyro",
             "category": "PC GAME",
