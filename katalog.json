@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "harga_satuan": 11000,
+=======
+    "harga_satuan": 12000,
+>>>>>>> 47403719e23a44b36839f58cbee45179ecd1bebb
     "link_shopee_satuan": "https://shopee.co.id/link-produk-satuan-pawang-game",
     "nomor_wa": "6281234567890",
     "games": [
@@ -2499,7 +2503,11 @@
         },
         {
             "id": "nostalgia_ps2_god_hand",
+<<<<<<< HEAD
             "title": "God Hand",
+=======
+            "title": "God Hand (Tamat)",
+>>>>>>> 47403719e23a44b36839f58cbee45179ecd1bebb
             "category": "Nostalgia PS2",
             "cover": "Marketplace/Nostalgia PS2/God Hand/cover.jpg",
             "previews": [
@@ -2509,7 +2517,12 @@
                 "Marketplace/Nostalgia PS2/God Hand/God Hand 5.jpg",
                 "Marketplace/Nostalgia PS2/God Hand/God Hand 6.jpg"
             ],
+<<<<<<< HEAD
             "size": "1.4 GB"
+=======
+            "size": "1.4 GB",
+            "price": 10212
+>>>>>>> 47403719e23a44b36839f58cbee45179ecd1bebb
         },
         {
             "id": "nostalgia_ps2_god_of_war",
