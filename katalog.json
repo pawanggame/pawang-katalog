@@ -4,6 +4,20 @@
     "nomor_wa": "6281234567890",
     "games": [
         {
+            "id": "pc_game_call_of_duty_black_ops_2",
+            "title": "Call of Duty Black Ops 2",
+            "category": "PC GAME",
+            "size": "22 GB",
+            "price": 12000,
+            "cover": "Marketplace/PC GAME/Call of Duty Black Ops 2/cover.jpg",
+            "previews": [
+                "Marketplace/PC GAME/Call of Duty Black Ops 2/Call of Duty Black Ops 2 3.jpg",
+                "Marketplace/PC GAME/Call of Duty Black Ops 2/Call of Duty Black Ops 2 4.jpg",
+                "Marketplace/PC GAME/Call of Duty Black Ops 2/Call of Duty Black Ops 2 5.jpg",
+                "Marketplace/PC GAME/Call of Duty Black Ops 2/Call of Duty Black Ops 2 6.jpg"
+            ]
+        },
+        {
             "id": "nostalgia_ps1_007_world_is_not_enough",
             "title": "007 world is not enough",
             "category": "Nostalgia PS1",
