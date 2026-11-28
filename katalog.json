@@ -4,6 +4,20 @@
     "nomor_wa": "6281234567890",
     "games": [
         {
+            "id": "nostalgia_ps2_avatar_the_last_airbender",
+            "title": "Avatar The Last Airbender",
+            "category": "Nostalgia PS2",
+            "size": "838 MB",
+            "price": 12000,
+            "cover": "Marketplace/Nostalgia PS2/Avatar The Last Airbender/cover.webp",
+            "previews": [
+                "Marketplace/Nostalgia PS2/Avatar The Last Airbender/Avatar The Last Airbender 2.webp",
+                "Marketplace/Nostalgia PS2/Avatar The Last Airbender/Avatar The Last Airbender 3.webp",
+                "Marketplace/Nostalgia PS2/Avatar The Last Airbender/Avatar The Last Airbender 4.webp",
+                "Marketplace/Nostalgia PS2/Avatar The Last Airbender/Avatar The Last Airbender 5.webp"
+            ]
+        },
+        {
             "id": "nostalgia_ps1_power_ranger_ninja_strom__japan_",
             "title": "Power Ranger Ninja Strom (Japan)",
             "category": "Nostalgia PS1",
