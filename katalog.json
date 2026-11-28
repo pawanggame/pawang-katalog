@@ -4,6 +4,19 @@
     "nomor_wa": "6281234567890",
     "games": [
         {
+            "id": "nostalgia_ps1_power_ranger_ninja_strom__japan_",
+            "title": "Power Ranger Ninja Strom (Japan)",
+            "category": "Nostalgia PS1",
+            "size": "432 MB",
+            "price": 12000,
+            "cover": "Marketplace/Nostalgia PS1/Power Ranger Ninja Strom (Japan)/cover.webp",
+            "previews": [
+                "Marketplace/Nostalgia PS1/Power Ranger Ninja Strom (Japan)/Power Ranger Ninja Strom 3.webp",
+                "Marketplace/Nostalgia PS1/Power Ranger Ninja Strom (Japan)/Power Ranger Ninja Strom 4.webp",
+                "Marketplace/Nostalgia PS1/Power Ranger Ninja Strom (Japan)/Power Ranger Ninja Strom 5.webp"
+            ]
+        },
+        {
             "id": "nostalgia_ps1_power_ranger_wild_force",
             "title": "Power Ranger Wild Force",
             "category": "Nostalgia PS1",
