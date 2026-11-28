@@ -4,6 +4,19 @@
     "nomor_wa": "6281234567890",
     "games": [
         {
+            "id": "nostalgia_ps1_power_ranger_wild_force",
+            "title": "Power Ranger Wild Force",
+            "category": "Nostalgia PS1",
+            "size": "266 MB",
+            "price": 12000,
+            "cover": "Marketplace/Nostalgia PS1/Power Ranger Wild Force/cover.jpg",
+            "previews": [
+                "Marketplace/Nostalgia PS1/Power Ranger Wild Force/Power Ranger Wild Force 3.jpg",
+                "Marketplace/Nostalgia PS1/Power Ranger Wild Force/Power Ranger Wild Force 4.jpg",
+                "Marketplace/Nostalgia PS1/Power Ranger Wild Force/Power Ranger Wild Force 5.jpg"
+            ]
+        },
+        {
             "id": "pc_game_call_of_duty_black_ops_2",
             "title": "Call of Duty Black Ops 2",
             "category": "PC GAME",
